@@ -7,6 +7,7 @@
 * Lê Bá Đắc
 * Dương Lý Tuyết Mai
 * Nguyễn Chí Cường
+* Nguyễn Trung Kiên
 
 ## Introduction
 
