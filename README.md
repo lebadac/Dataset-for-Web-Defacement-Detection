@@ -19,16 +19,6 @@ This Python project focuses on dataset crawling and machine learning model selec
 ## Demo
 
 <div align="center">
-  <img src="Result.png" alt="Result" />
+  <img src="demo.gif" alt="Result" />
 </div>
 
-
-
-## Dataset
-The dataset used for training PhoBERT is [UIT-ViSD4SA](https://github.com/kimkim00/UIT-ViSD4SA). We preprocess the data to ensure compatibility with the model."
-
-## Methodology pipeline
-
-<div align="center">
-  <img src="methodology_pipeline.png" alt="Methodology Pipeline" />
-</div>
